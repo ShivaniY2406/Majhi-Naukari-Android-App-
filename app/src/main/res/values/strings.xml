@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Majhi Naukari</string>
+    <string name="back"> Back</string>
+    <string name="Home"> Home </string>
+    <string name="share"> Share App</string>
+    <string name="rate"> Rate App</string>
+    <string name="open"> Open with browser</string>
+    <string name="policy"> Privacy Policy </string>
+</resources>

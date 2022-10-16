@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:title="@string/share"/>
+
+
+    <item
+        android:id="@+id/policy"
+        android:icon="@drawable/privacypolicy"
+        android:title="@string/policy"/>
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="@string/Home"
+        app:showAsAction="ifRoom"/>
+
+
+    <item
+        android:id="@+id/open"
+        android:icon="@drawable/broswer"
+        android:title="@string/open"/>
+
+
+
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/rateapp"
+        android:title="@string/rate"/>
+
+
+
+
+
+</menu>

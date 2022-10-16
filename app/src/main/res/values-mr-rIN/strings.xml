@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">माझी नोकरी</string>
+    <string name="back">"परत "</string>
+    <string name="Home">मुख्यपृष्ठ</string>
+    <string name="share">शेअर</string>
+    <string name="rate">रेट अॅप</string>
+    <string name="open">ब्राउझरसह उघडा</string>
+    <string name="policy">गोपनीयता धोरण</string>
+</resources>
